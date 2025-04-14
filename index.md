@@ -8,6 +8,9 @@
 let i=5
 console.log(i)
 ```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+<span color="red">hello </span>
 - [x] no1 
 - [x] no2
 - [ ] no3
