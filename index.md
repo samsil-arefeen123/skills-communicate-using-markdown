@@ -10,7 +10,6 @@ console.log(i)
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-<p style="color:"red";>hello </p>
 - [x] no1 
 - [x] no2
 - [ ] no3
