@@ -8,3 +8,6 @@ console.log(i)
 - [x] no1 
 - [x] no2
 - [ ] no3
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
