@@ -5,6 +5,6 @@
 let i=5
 console.log(i)
 ```
-[x] no1 
-[x] no2
-[] no3
+-[x] no1 
+-[x] no2
+- [] no3
